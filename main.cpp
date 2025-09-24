@@ -1,5 +1,6 @@
 #include <iostream>
 #include <limits>
+#include <exception>
 #include "include/to_binary.h"
 
 int main(){
