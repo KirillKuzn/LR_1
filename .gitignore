@@ -47,6 +47,3 @@ compile_commands.json
 # Логи и отладочная информация
 *.log
 *.dSYM/
-
-#Картинки
-images/
